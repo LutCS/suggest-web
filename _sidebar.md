@@ -9,7 +9,7 @@
         * [选择城市和行业](work/about_lut)
         * [了解一些黑话](work/about_lut)
         * [时刻追随、热爱行业](work/about_lut)
-    * [该怎么怎么准备](work/about_lut)
+    * [该怎么准备](work/about_lut)
         * [简历书写和投递](work/about_lut)
         * [面试内容准备](work/about_lut)
         * [面试心态调整](work/about_lut)
