@@ -20,3 +20,4 @@
     * [裁员、996、强制OnCall](after_work/icu)
 * [Q&A](question/index)
 * [校友分享-其他行业](other/index)
+    * [嵌入式-2014级@安思旎](other/14@安思旎)
